@@ -1,0 +1,67 @@
+[
+  {
+    "id": 0,
+    "nombre": "America",
+    "ciudad": "Ciudad de Mexico",
+    "estadio": "Estadio Azteca",
+    "titulos": 13,
+    "apodo": "Aguilas del America",
+    "fundacion": 1916,
+    "img": "https://ssl.gstatic.com/onebox/media/sports/logos/QKZVogU66ByvZRqIAIVtmA_96x96.png",
+    "color": "yellow",
+    "info": "Es el conjunto que acumula la mayor cantidad de puntos, juegos ganados y goles anotados tanto en temporada regular, como en la fase final por el título, en la historia de la Primera División.2930​. Su relevancia en el fútbol mexicano, también se manifiesta en el ámbito organizativo, al ser uno de los siete clubes que dieron origen a la actual Federación Mexicana de Fútbol el 22 de agosto de 1922 y dos meses después al actual torneo de liga.",
+    "goleador": "Zague"
+  },
+  {
+    "id": 1,
+    "nombre": "Guadalajara",
+    "ciudad": "Zapopan",
+    "estadio": "Estadio Akron",
+    "titulos": 12,
+    "apodo": "Chivas",
+    "fundacion": 1906,
+    "img": "https://ssl.gstatic.com/onebox/media/sports/logos/hyOGnulKdtjyFHJoODEtBg_96x96.png",
+    "color": "red, white",
+    "info": "La característica más representativa que distingue históricamente al Club Deportivo Guadalajara del resto de los clubes en México, es su política de jugar únicamente con futbolistas mexicanos por nacimiento o de origen mexicano. También es reconocido históricamente por ser un club que trabaja en la formación de jóvenes futbolistas, que abastece principalmente a la mayoría del plantel en el primer equipo y a las distintas categorías de la selección de México.",
+    "goleador": "Omar Bravo"
+  },
+  {
+    "id": 2,
+    "nombre": "Toluca",
+    "ciudad": "Ciudad de Mexico",
+    "estadio": "Estadio Nemezio Diez",
+    "titulos": 10,
+    "apodo": "Diablos Rojos",
+    "fundacion": 1917,
+    "img": "https://ssl.gstatic.com/onebox/media/sports/logos/LjvNG2uNr5lyNnXP51yI5Q_96x96.png",
+    "color": "red",
+    "info": "A lo largo de la historia del fútbol mexicano, el Deportivo Toluca se ha convertido en el tercer equipo de fútbol con más campeonatos ganados en la Primera División de México, con un total de 10 títulos, quedando detrás del Club América con 13 y del Club Deportivo Guadalajara con 12. Desde la instauración de los torneos cortos en 1996, y a lo largo de su historia, el Deportivo Toluca ha ganado también diversos títulos nacionales e internacionales tales como la Copa México en 2 ocasiones, el Campeón de Campeones en 4, la Copa de Campeones de la Concacaf en 2, lo que se suma a los títulos obtenidos en su etapa amateur como el Campeonato Estatal Mexiquense que logró en 14 ocasiones",
+    "goleador": "Saturdino Cardozo"
+  },
+  {
+    "id": 3,
+    "nombre": "Cruzazul",
+    "ciudad": "Ciudad de Mexico",
+    "estadio": "Estadio Azteca",
+    "titulos": 9,
+    "apodo": "La Maquina",
+    "fundacion": 1927,
+    "img": "https://ssl.gstatic.com/onebox/media/sports/logos/IfE_cFETO6IfMcJROKpLdg_96x96.png",
+    "color": "blue",
+    "info": "Se ubica en el tercer lugar en el historial de la Primera División, con nueve campeonatos obtenidos.10​ También cuenta con cuatro ediciones ganadas de la Copa México, tres trofeos como Campeón de Campeones, una Supercopa MX y una Supercopa de la Liga MX. En el ámbito internacional, es el segundo club con más títulos en la Liga de Campeones de la Concacaf con 6. Su palmarés acumulado lo posiciona como el tercer equipo más laureado del futbol mexicano, con un total de 24 títulos oficiales. Asimismo, resultó subcampeón de la Copa Libertadores 2001 y de la Copa Interamericana 1972.",
+    "goleador": "Carlos Hermosillo"
+  },
+  {
+    "id": 4,
+    "nombre": "Atlas",
+    "ciudad": "Guadalajara",
+    "estadio": "Estadio Jalisco",
+    "titulos": 3,
+    "apodo": "Los Rojinegros",
+    "fundacion": 1916,
+    "img": "https://ssl.gstatic.com/onebox/media/sports/logos/_qZJmD21ts9VJ8qFvG2bug_96x96.png",
+    "color": "white",
+    "info": "Los colores que lo identifican son el negro y el rojo, por San Lorenzo mártir, patrono del Colegio Ampleforth, sitio donde estudiaron algunos de sus fundadores. El negro simboliza al mártir y el rojo, la sangre derramada por él. Con base en estos colores, fue diseñada la casaca deportiva y el escudo; la famosa A del escudo del Atlas fue diseñada por el pintor y dibujante de origen austríaco, Carlos Stahl, quien sugirió como blasón la A blanca sobre un fondo rojinegro.",
+    "goleador": "Edwin Cubero"
+  }
+]
